@@ -1,2 +1,36 @@
-# taiwan-labor-insurance-automation
-Automate Taiwan labor insurance operations with secure client execution, enrollment, withdrawal, insured salary adjustment, and automatic updates.
+# Taiwan Labor Insurance Automation
+
+台灣勞保作業自動化工具，協助降低重複性的人工操作，提升作業效率與一致性。
+
+> **目前狀態：Preview / 預覽階段**
+
+## 主要功能
+
+- 加保作業自動化
+- 退保作業自動化
+- 投保薪資調整
+- Windows Client
+- 自動更新
+- 版本管理
+- 更新檔案完整性驗證
+- 作業執行紀錄
+
+## 版本
+
+目前預覽版本：
+
+```text
+v1.0.1
+```
+
+版本檔案請由 GitHub Releases 取得。
+
+## 關於本專案
+
+本專案持續開發中，正式提供商用服務前仍會進行完整測試與驗證。
+
+## 免責聲明
+
+本專案為獨立開發之軟體服務，並非勞動部勞工保險局或其他政府機關之官方系統，亦不代表與相關政府機關存在合作、授權或背書關係。
+
+使用者應確保其使用方式符合相關法令、規範及自身組織之授權要求。
